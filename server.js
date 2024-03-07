@@ -4006,7 +4006,7 @@ const challengers = {
 "totalMoneyWon": 0
 },
         'unknown': {
-            'name': 'unknown'
+            'name': 'Not in Database'
         }
 }
 
