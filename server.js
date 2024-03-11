@@ -2552,20 +2552,6 @@ const challengers = {
 "allStarMoneyWon": 0,
 "totalMoneyWon": 50000
 },
-"john devenanzio": {
-"name": "John Devenanzio",
-"challengerImage": "https://static.wikia.nocookie.net/thechallenge9148/images/0/08/BananasUSA2.jpeg/revision/latest/scale-to-width-down/350?cb=20230711180856",
-"originalSeason": "The Real World: Key West",
-"allSeasons": "The Duel, The Inferno 3 , The Gauntlet III, The Island, The Ruins, Cutthroat, Rivals, Battle of the Exes, Rivals II , Free Agents, Battle of the Exes II, Battle of the Bloodlines, Rivals III, Invasion of the Champions, Dirty 30, Vendettas, Final Reckoning, War of the Worlds, War of the Worlds 2, Total Madness, Ride or Dies ",
-"dailyWins": "68",
-"elims": "27 (13 wins, 14 losses)",
-"moneyWon": 1222720,
-"allStarSeasons": "Did not compete",
-"allStarDailyWins": "Did not compete",
-"allStarElims": "Did not compete",
-"allStarMoneyWon": 0,
-"totalMoneyWon": 1222720
-},
 "john jacobs": {
 "name": "John Jacobs",
 "challengerImage": "https://static.wikia.nocookie.net/thechallenge9148/images/c/c4/JohnExes2Infobox.png/revision/latest/scale-to-width-down/350?cb=20180702232322",
