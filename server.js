@@ -596,7 +596,7 @@ const challengers = {
 "allStarMoneyWon": 0,
 "totalMoneyWon": 0
 },
-"big easy banks": {
+"big easy": {
 "name": "Big Easy Banks",
 "challengerImage": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5f/BigEasyAS.png/revision/latest/scale-to-width-down/331?cb=20210316191118",
 "originalSeason": "Fresh Meat",
@@ -862,6 +862,20 @@ const challengers = {
 "allStarMoneyWon": 0,
 "totalMoneyWon": 602250
 },
+"cara maria": {
+    "name": "Cara Maria",
+    "challengerImage": "https://static.wikia.nocookie.net/thechallenge9148/images/3/38/CaraMariaAS4.jpg/revision/latest/scale-to-width-down/350?cb=20240227173235",
+    "originalSeason": "Fresh Meat II",
+    "allSeasons": "Fresh Meat II, Cutthroat , Rivals , Battle of the Exes, Battle of the Seasons (2012), Rivals II , Free Agents, Battle of the Bloodlines, Invasion of the Champions, Dirty 30 , Vendettas, Final Reckoning , War of the Worlds , War of the Worlds 2 ",
+    "dailyWins": "42",
+    "elims": "19 (13 wins, 6 losses)",
+    "moneyWon": 602250,
+    "allStarSeasons": "All Stars 4",
+    "allStarDailyWins": "Did not compete",
+    "allStarElims": "Did not compete",
+    "allStarMoneyWon": 0,
+    "totalMoneyWon": 602250
+    },
 "cara zavaleta": {
 "name": "Cara Zavaleta",
 "challengerImage": "https://static.wikia.nocookie.net/thechallenge9148/images/5/52/CaraI3.png/revision/latest?cb=20150716004715",
@@ -1210,6 +1224,20 @@ const challengers = {
 "allStarMoneyWon": 0,
 "totalMoneyWon": 1375000
 },
+"ct": {
+    "name": "CT",
+    "challengerImage": "https://static.wikia.nocookie.net/thechallenge9148/images/5/5c/CTBNCBio.jpg/revision/latest/scale-to-width-down/350?cb=20230912154453",
+    "originalSeason": "The Real World: Paris",
+    "allSeasons": "The Inferno , The Inferno II , The Duel, The Inferno 3, The Gauntlet III , The Duel II, Rivals, Battle of the Exes , Rivals II, Free Agents, Battle of the Exes II, Invasion of the Champions, Dirty 30 , Final Reckoning, War of the Worlds, War of the Worlds 2, Total Madness, Double Agents, Spies, Lies & Allies",
+    "dailyWins": "55",
+    "elims": "11 (6 wins, 5 losses)",
+    "moneyWon": 1375000,
+    "allStarSeasons": "Did not compete",
+    "allStarDailyWins": "Did not compete",
+    "allStarElims": "Did not compete",
+    "allStarMoneyWon": 0,
+    "totalMoneyWon": 1375000
+    },
 "cynthia roberts": {
 "name": "Cynthia Roberts",
 "challengerImage": "https://static.wikia.nocookie.net/thechallenge9148/images/8/83/CynthiaAS3Bio.jpeg/revision/latest/scale-to-width-down/333?cb=20230301175346",
