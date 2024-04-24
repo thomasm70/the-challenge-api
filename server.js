@@ -848,20 +848,6 @@ const challengers = {
 "allStarMoneyWon": 0,
 "totalMoneyWon": 0
 },
-"cara maria sorbello": {
-"name": "Cara Maria Sorbello",
-"challengerImage": "https://static.wikia.nocookie.net/thechallenge9148/images/3/38/CaraMariaAS4.jpg/revision/latest/scale-to-width-down/350?cb=20240227173235",
-"originalSeason": "Fresh Meat II",
-"allSeasons": "Fresh Meat II, Cutthroat , Rivals , Battle of the Exes, Battle of the Seasons (2012), Rivals II , Free Agents, Battle of the Bloodlines, Invasion of the Champions, Dirty 30 , Vendettas, Final Reckoning , War of the Worlds , War of the Worlds 2 ",
-"dailyWins": "42",
-"elims": "19 (13 wins, 6 losses)",
-"moneyWon": 602250,
-"allStarSeasons": "All Stars 4",
-"allStarDailyWins": "1",
-"allStarElims": "Did not compete",
-"allStarMoneyWon": 0,
-"totalMoneyWon": 602250
-},
 "cara maria": {
     "name": "Cara Maria",
     "challengerImage": "https://static.wikia.nocookie.net/thechallenge9148/images/3/38/CaraMariaAS4.jpg/revision/latest/scale-to-width-down/350?cb=20240227173235",
@@ -872,7 +858,7 @@ const challengers = {
     "moneyWon": 602250,
     "allStarSeasons": "All Stars 4",
     "allStarDailyWins": "1",
-    "allStarElims": "Did not compete",
+    "allStarElims": "1 (1 win)",
     "allStarMoneyWon": 0,
     "totalMoneyWon": 602250
     },
@@ -2855,8 +2841,8 @@ const challengers = {
 "elims": "10 (8 wins, 2 losses)",
 "moneyWon": 50000,
 "allStarSeasons": "All Stars 4",
-"allStarDailyWins": "Did not compete",
-"allStarElims": "Did not compete",
+"allStarDailyWins": "1",
+"allStarElims": "0",
 "allStarMoneyWon": 0,
 "totalMoneyWon": 50000
 },
@@ -3217,7 +3203,7 @@ const challengers = {
 "elims": "13 (10 wins, 3 losses)",
 "moneyWon": 201000,
 "allStarSeasons": "All Stars 4",
-"allStarDailyWins": "1",
+"allStarDailyWins": "2",
 "allStarElims": "Did not compete",
 "allStarMoneyWon": 0,
 "totalMoneyWon": 201000
@@ -4183,7 +4169,7 @@ const challengers = {
 "moneyWon": 135555,
 "allStarSeasons": "All Stars 4",
 "allStarDailyWins": "0",
-"allStarElims": "1 (1 win)",
+"allStarElims": "2 (1 win, 1 lose)",
 "allStarMoneyWon": 0,
 "totalMoneyWon": 135555
 },
