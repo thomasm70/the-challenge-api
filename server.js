@@ -73,7 +73,7 @@ const challengers = {
 "elims": "1 (1 loss)",
 "moneyWon": 26555,
 "allStarSeasons": "All Stars 4",
-"allStarDailyWins": "Did not compete",
+"allStarDailyWins": "1",
 "allStarElims": "Did not compete",
 "allStarMoneyWon": 0,
 "totalMoneyWon": 26555
@@ -465,7 +465,7 @@ const challengers = {
 "elims": "3 (2 wins, 1 loss)",
 "moneyWon": 0,
 "allStarSeasons": "All Stars 4",
-"allStarDailyWins": "Did not compete",
+"allStarDailyWins": "1",
 "allStarElims": "Did not compete",
 "allStarMoneyWon": 0,
 "totalMoneyWon": 0
@@ -494,7 +494,7 @@ const challengers = {
 "moneyWon": 0,
 "allStarSeasons": "All Stars 2 , All Stars 4",
 "allStarDailyWins": "2 (2 wins)",
-"allStarElims": "2 (2 wins)",
+"allStarElims": "3 (2 wins, 1 lose)",
 "allStarMoneyWon": 0,
 "totalMoneyWon": 0
 },
@@ -633,7 +633,7 @@ const challengers = {
 "elims": "12 (6 wins, 6 losses)",
 "moneyWon": 75000,
 "allStarSeasons": "All Stars 2, All Stars 3 , All Stars 4",
-"allStarDailyWins": "3 (2 wins, 1 loss)",
+"allStarDailyWins": "4 (3 wins, 1 loss)",
 "allStarElims": "3 (2 wins, 1 loss)",
 "allStarMoneyWon": 0,
 "totalMoneyWon": 75000
@@ -857,7 +857,7 @@ const challengers = {
 "elims": "19 (13 wins, 6 losses)",
 "moneyWon": 602250,
 "allStarSeasons": "All Stars 4",
-"allStarDailyWins": "Did not compete",
+"allStarDailyWins": "1",
 "allStarElims": "Did not compete",
 "allStarMoneyWon": 0,
 "totalMoneyWon": 602250
@@ -871,7 +871,7 @@ const challengers = {
     "elims": "19 (13 wins, 6 losses)",
     "moneyWon": 602250,
     "allStarSeasons": "All Stars 4",
-    "allStarDailyWins": "Did not compete",
+    "allStarDailyWins": "1",
     "allStarElims": "Did not compete",
     "allStarMoneyWon": 0,
     "totalMoneyWon": 602250
@@ -2309,7 +2309,7 @@ const challengers = {
 "elims": 0,
 "moneyWon": 0,
 "allStarSeasons": "All Stars 4",
-"allStarDailyWins": "Did not compete",
+"allStarDailyWins": "1",
 "allStarElims": "Did not compete",
 "allStarMoneyWon": 0,
 "totalMoneyWon": 0
@@ -3217,7 +3217,7 @@ const challengers = {
 "elims": "13 (10 wins, 3 losses)",
 "moneyWon": 201000,
 "allStarSeasons": "All Stars 4",
-"allStarDailyWins": "Did not compete",
+"allStarDailyWins": "1",
 "allStarElims": "Did not compete",
 "allStarMoneyWon": 0,
 "totalMoneyWon": 201000
@@ -3973,8 +3973,8 @@ const challengers = {
 "elims": "1 (1 win)",
 "moneyWon": 26250,
 "allStarSeasons": "All Stars 4",
-"allStarDailyWins": "Did not compete",
-"allStarElims": "Did not compete",
+"allStarDailyWins": "1",
+"allStarElims": "0",
 "allStarMoneyWon": 0,
 "totalMoneyWon": 26250
 },
@@ -4182,8 +4182,8 @@ const challengers = {
 "elims": "3 (1 win, 2 losses)",
 "moneyWon": 135555,
 "allStarSeasons": "All Stars 4",
-"allStarDailyWins": "Did not compete",
-"allStarElims": "Did not compete",
+"allStarDailyWins": "0",
+"allStarElims": "1 (1 win)",
 "allStarMoneyWon": 0,
 "totalMoneyWon": 135555
 },
@@ -4645,7 +4645,7 @@ const challengers = {
 "moneyWon": 0,
 "allStarSeasons": "All Stars 2, All Stars 4",
 "allStarDailyWins": "1 (1 loss)",
-"allStarElims": "1 (1 loss)",
+"allStarElims": "2 (1 win, 1 loss)",
 "allStarMoneyWon": 0,
 "totalMoneyWon": 0
 },
@@ -4743,7 +4743,7 @@ const challengers = {
 "moneyWon": 30333,
 "allStarSeasons": "All Stars 1, All Stars 3, All Stars 4",
 "allStarDailyWins": "3 (1 win, 2 losses)",
-"allStarElims": "3 (1 win, 2 losses)",
+"allStarElims": "4 (1 win, 3 losses)",
 "allStarMoneyWon": 0,
 "totalMoneyWon": 30333
 },
@@ -4966,8 +4966,8 @@ const challengers = {
 "elims": "7 (3 wins, 4 losses)",
 "moneyWon": 0,
 "allStarSeasons": "All Stars 4",
-"allStarDailyWins": "Did not compete",
-"allStarElims": "Did not compete",
+"allStarDailyWins": "1",
+"allStarElims": "0",
 "allStarMoneyWon": 0,
 "totalMoneyWon": 0
 },
@@ -5119,9 +5119,9 @@ const challengers = {
 "dailyWins": "3",
 "elims": "5 (5 losses)",
 "moneyWon": 0,
-"allStarSeasons": "Did not compete",
-"allStarDailyWins": "Did not compete",
-"allStarElims": "Did not compete",
+"allStarSeasons": "All Stars 4",
+"allStarDailyWins": "0",
+"allStarElims": "1 (1 lose)",
 "allStarMoneyWon": 0,
 "totalMoneyWon": 0
 },
@@ -5272,18 +5272,18 @@ const challengers = {
 
 
 app.get('/', (request,response) => {
-response.sendFile(__dirname + '/index.html')
+    response.sendFile(__dirname + '/index.html')
 })
 
 app.get('/api/:challengerName', (request,response)=>{
-const challName = request.params.challengerName.toLowerCase()
-if(challengers[challName]){
-response.json(challengers[challName])
-}else{
-response.json(challengers['unknown'])
-}
+    const challName = request.params.challengerName.toLowerCase()
+    if(challengers[challName]){
+    response.json(challengers[challName])
+    }else{
+    response.json(challengers['unknown'])
+    }
 })
 
 app.listen(process.env.PORT || PORT, () =>{
-console.log(`The server is now running on ${PORT}. Got get it!`)
+    console.log(`The server is now running on ${PORT}. Got get it!`)
 })
