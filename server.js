@@ -1470,7 +1470,7 @@ const challengers = {
 "elims": "4 (1 win, 3 losses)",
 "moneyWon": 0,
 "allStarSeasons": "All Stars 2, All Stars 4",
-"allStarDailyWins": "1 (1 loss)",
+"allStarDailyWins": "2",
 "allStarElims": "1 (1 loss)",
 "allStarMoneyWon": 0,
 "totalMoneyWon": 0
@@ -4322,7 +4322,7 @@ const challengers = {
 "elims": "7 (3 wins, 4 losses)",
 "moneyWon": 0,
 "allStarSeasons": "All Stars 2, All Stars 4",
-"allStarDailyWins": "1 (1 loss)",
+"allStarDailyWins": "2",
 "allStarElims": "1 (1 loss)",
 "allStarMoneyWon": 0,
 "totalMoneyWon": 0
@@ -4630,7 +4630,7 @@ const challengers = {
 "elims": "2 (1 win, 1 loss)",
 "moneyWon": 0,
 "allStarSeasons": "All Stars 2, All Stars 4",
-"allStarDailyWins": "1 (1 loss)",
+"allStarDailyWins": "2",
 "allStarElims": "2 (1 win, 1 loss)",
 "allStarMoneyWon": 0,
 "totalMoneyWon": 0
