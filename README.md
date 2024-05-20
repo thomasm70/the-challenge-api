@@ -3,4 +3,4 @@ It includes their name, image, original season, all seasons participated in, mon
 
 Hosted on Render so if it is slow, let it deploy. May take up to a minute.
 
-Will try and update at end of new seasons.
+Will try and update once a week.
